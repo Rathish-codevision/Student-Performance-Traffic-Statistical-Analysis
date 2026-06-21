@@ -1,13 +1,13 @@
 ---
-
-title: Student Performance & Traffic Statistical Analysis
-emoji: 📊
+title: "Student Performance & Traffic Statistical Analysis"
+emoji: "📊"
 colorFrom: blue
 colorTo: indigo
 sdk: streamlit
 app_file: app.py
 pinned: false
-------------
+license: mit
+---
 
 # 📊 Student Performance & Traffic Statistical Analysis
 
@@ -15,13 +15,13 @@ An end-to-end Data Science project that explores and analyzes **Student Academic
 
 The project includes:
 
-* 📈 Comprehensive Exploratory Data Analysis (EDA)
-* 📊 Statistical Summary & Insights
-* 🔍 Correlation and Trend Analysis
-* 🚦 Traffic Volume Pattern Analysis
-* 🎓 Student Performance Evaluation
-* 🌐 Interactive Streamlit Dashboard
-* 🤗 Hugging Face Spaces Deployment Support
+- 📈 Comprehensive Exploratory Data Analysis (EDA)
+- 📊 Statistical Summary & Insights
+- 🔍 Correlation and Trend Analysis
+- 🚦 Traffic Volume Pattern Analysis
+- 🎓 Student Performance Evaluation
+- 🌐 Interactive Streamlit Dashboard
+- 🤗 Hugging Face Spaces Deployment Support
 
 ---
 
