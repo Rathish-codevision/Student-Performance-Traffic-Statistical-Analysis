@@ -1,13 +1,3 @@
----
-title: "Student Performance & Traffic Statistical Analysis"
-emoji: "📊"
-colorFrom: blue
-colorTo: indigo
-sdk: streamlit
-app_file: app.py
-pinned: false
-license: mit
----
 
 # 📊 Student Performance & Traffic Statistical Analysis
 
